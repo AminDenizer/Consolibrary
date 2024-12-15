@@ -1,0 +1,68 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# .NET build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build folder
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+
+# User settings folder
+.vscode/
+
+# ASP.NET temporary files
+# Generated files
+web.config
+global.asax
+appsettings.json
+
+# Rider project files
+.idea/
+
+# JetBrains Rider / ReSharper files
+.idea/
+.reSharper/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Linux and macOS System Files
+.DS_Store
+.idea/
+
+# Exclude package restore files
+project.lock.json
+project.fragment.lock.json
+packages/
+
+# Exclude IDE config files
+.vscode/
+
+# Ignore Visual Studio files
+.vs/
+
+
+# Exclude logs and reports
+logs/
+log/
+
+# Ignore specific files in the LibraryManagement folder
+LibraryManagement/Book.cs
+LibraryManagement/Member.cs
+LibraryManagement/Library.cs
+LibraryManagement/Transaction.cs
+LibraryManagement/FileManager.cs
