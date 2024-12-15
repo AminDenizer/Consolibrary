@@ -79,6 +79,28 @@ The project includes the following key files:
 - **Library.cs**: Manages the collection of books, members, and transactions. It also includes methods for adding books, members, and borrowing books.
 - **FileManager.cs**: Handles reading from and writing to files to persist data between sessions.
 
+## Docker Usage
+
+### 1. Download (Pull) Docker Image
+
+To download the Docker image from GitHub Container Registry, use the following command:
+
+```bash
+docker pull ghcr.io/amindenizer/consolibrary:latest
+```
+
+This command will download the latest version of the image with the `latest` tag.
+
+### 2. Execute (Run) Docker Container
+
+To run the Docker container from the downloaded image, use the following command:
+
+```bash
+docker run -it ghcr.io/amindenizer/consolibrary:latest
+```
+
+This command will run the downloaded image in an interactive container.
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
@@ -100,4 +122,4 @@ If you'd like to contribute to this project, please follow these steps:
 - This project was built as an educational tool to demonstrate basic concepts of library management systems.
 ```
 
-This version includes all the necessary sections for the project, clearly organized with proper Markdown formatting. Let me know if any adjustments are needed!
+This version includes everything in English, including the sections related to Docker usage and all the necessary setup and instructions for the Library Management System project. Let me know if you need further adjustments!
