@@ -29,3 +29,4 @@ COPY --from=build /app/publish .
 
 # Specify the entry point for the application
 ENTRYPOINT ["dotnet", "LibraryManagement.dll"]
+ 
