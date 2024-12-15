@@ -60,5 +60,3 @@ packages/
 logs/
 log/
 
-# Ignore specific files in the LibraryManagement folder
-LibraryManagement/FileManager.cs
