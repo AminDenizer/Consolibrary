@@ -61,5 +61,4 @@ logs/
 log/
 
 # Ignore specific files in the LibraryManagement folder
-LibraryManagement/Transaction.cs
 LibraryManagement/FileManager.cs
