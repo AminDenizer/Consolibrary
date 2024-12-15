@@ -120,6 +120,3 @@ If you'd like to contribute to this project, please follow these steps:
 - Developed by **Amin Denizer**.
 - Special thanks to [Visual Studio](https://visualstudio.microsoft.com/) for providing an excellent development environment.
 - This project was built as an educational tool to demonstrate basic concepts of library management systems.
-```
-
-This version includes everything in English, including the sections related to Docker usage and all the necessary setup and instructions for the Library Management System project. Let me know if you need further adjustments!
