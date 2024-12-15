@@ -1,0 +1,19 @@
+# Ignore bin and obj directories
+LibraryManagement/bin/
+LibraryManagement/obj/
+
+# Ignore .git directory
+.git/
+
+# Ignore Dockerfile and .dockerignore itself
+Dockerfile
+.dockerignore
+
+# Ignore local IDE files (e.g. Visual Studio)
+.vs/
+.idea/
+
+# Ignore build artifacts
+*.dll
+*.pdb
+*.exe
