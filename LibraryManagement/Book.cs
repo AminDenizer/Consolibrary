@@ -4,9 +4,11 @@ public enum Genre
 {
     Fiction,
     NonFiction,
+    Mystery,
     Fantasy,
     ScienceFiction,
-    Mystery
+    Biography
+
 }
 
 public class Book
